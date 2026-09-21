@@ -1,0 +1,13 @@
+{
+  "jobs": [
+    {
+      "trigger": "kibisake_style",
+      "zip": "kibisake_20260812_30.zip"
+    }
+  ],
+  "resolution": 1024,
+  "steps": 1250,
+  "lr": 0.0005,
+  "rank": 32,
+  "output_dir": "/content/drive/MyDrive/qwen_image21/outputs"
+}
