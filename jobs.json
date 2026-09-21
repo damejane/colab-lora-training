@@ -7,7 +7,7 @@
   ],
   "resolution": 1024,
   "steps": 1250,
-  "lr": 0.0005,
+  "lr": 0.0001,
   "rank": 32,
   "output_dir": "/content/drive/MyDrive/qwen_image21/outputs"
 }
