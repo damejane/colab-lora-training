@@ -12,6 +12,7 @@ Google Drive 連携・複数ジョブ連続実行・自動キャプション前�
 | **Anima** | `anima_lora_colab_v1.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damejane/colab-lora-training/blob/main/anima_lora_colab_v1.ipynb) | CircleStone Labs 2B DiT (Qwen3-0.6B + WanVAE)。LanPaint / ComfyUI 完全対応 (`sd-scripts` 版) |
 | **Krea 2** | `krea2_lora_colab_v43.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damejane/colab-lora-training/blob/main/krea2_lora_colab_v43.ipynb) | Krea-2-Raw ベースモデルの完全自動学習 (fal / ComfyUI 互換) |
 | **Qwen-Image 2.1** | `qwen_image21_lora_colab_v1.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damejane/colab-lora-training/blob/main/qwen_image21_lora_colab_v1.ipynb) | Alibaba 基盤モデル (DiT 7B + Qwen3-VL 8B + RGBA VAE)。T2I & I2I 対応 |
+| **MOSS-Image** | `moss_image_lora_colab_v1.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damejane/colab-lora-training/blob/main/moss_image_lora_colab_v1.ipynb) | OpenMOSS 5B DiT (Qwen3.5-9B + FLUX.2 VAE)。ComfyUI 完全対応 (`sd-scripts` 版) / `MyDrive/moss_image/` の queue/done/outputs で完全自動 / L4・A100 推奨 |
 
 ---
 
